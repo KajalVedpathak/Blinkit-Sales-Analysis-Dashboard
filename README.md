@@ -24,5 +24,8 @@ The Blinkit Sales Analysis Dashboard is an interactive Power BI project designed
 - Data Modeling
 - Data Visualization
 
+* Dashboard Screenshot: https://github.com/KajalVedpathak/Blinkit-Sales-Analysis-Dashboard/blob/main/BlinkIT%20Dashboard.png
+
+
 
 
